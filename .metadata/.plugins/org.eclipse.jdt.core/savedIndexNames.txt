@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+/Users/a7medal-hato/Desktop/new2/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+1262414302.index
+2989762121.index
+2316602667.index
